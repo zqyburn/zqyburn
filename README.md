@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **HTML, CSS, Javascript**
+  🦄 Linguagens: <strong>HTML, CSS, Javascript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code**
+  💼 Ferramentas: <strong>Visual Studio Code</strong>
 </p>
 
 <p align="left">
