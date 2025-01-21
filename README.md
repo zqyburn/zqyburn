@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá! Meu nome é <strong>Marcelo</strong>, Estou iniciando na área de <strong>TI</strong> e meu objetivo é ser um Dev <strong>Back-end</strong>.<br>
-  Atualmente estou cursando CST em Analise e Desenvolvimento de Sistemas na Uniube e participando do projeto de ensino <strong>Oracle ONE</strong>.
+  Atualmente estou cursando CST em Analise e Desenvolvimento de Sistemas na <strong>Uniube</strong> e participando do projeto de ensino <strong>Oracle ONE</strong>.
 </p>
 
 <p align="left">
