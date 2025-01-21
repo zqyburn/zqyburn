@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é Marcelo, Estou iniciando na área de TI e meu objetivo final é ser um Dev <strong>Back-end</strong>.<br>
-  Atualmente estou cursando CST em analise e desenvolvimento de sistemas na Uniube e participando do projeto <strong>Oracle ONE</strong>.
+  Olá! Meu nome é <strong>Marcelo</strong>, Estou iniciando na área de <strong>TI</strong> e meu objetivo final é ser um Dev <strong>Back-end</strong>.<br>
+  Atualmente estou cursando CST em Analise e Desenvolvimento de Sistemas na Uniube e participando do projeto de ensino <strong>Oracle ONE</strong>.
 </p>
 
 <p align="left">
